@@ -1,6 +1,6 @@
 ## GitHub-Actions
 
-This repository is a **fork** of the original [GitHub-Actions-Zero-to-Hero Repository by Abhishek Veeramalla](https://github.com/iam-veeramalla/GitHub-Actions-Zero-to-Hero). The primary objective of this repository is to offer a comprehensive understanding of **GitHub Actions** with a specific focus on its usage in python projects, as well as how it compares to **Jenkins** in CI/CD workflows.
+This repository is a **fork** of the original [GitHub-Actions-Zero-to-Hero Repository by Abhishek Veeramalla](https://github.com/iam-veeramalla/GitHub-Actions-Zero-to-Hero). The primary objective of this repository is to offer a comprehensive understanding of **GitHub Actions** with a specific focus on its usage in projects, as well as how it compares to **Jenkins** in CI/CD workflows.
 
 ## Original Repository Information
 
